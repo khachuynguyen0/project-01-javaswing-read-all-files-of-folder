@@ -1,0 +1,9 @@
+Hello World!
+This is a sample text file for testing the Java Swing File Reader application.
+
+The application should be able to:
+- Display this text content
+- Show file information like size and modification date
+- Handle different file types gracefully
+
+End of sample text file.

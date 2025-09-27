@@ -1,0 +1,4 @@
+This is a file in a subfolder.
+It tests the tree navigation functionality.
+
+The application should display this file in the subfolder node of the tree.

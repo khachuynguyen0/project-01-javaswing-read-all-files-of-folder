@@ -1,0 +1,10 @@
+{
+  "name": "Java Swing File Reader",
+  "version": "1.0.0",
+  "description": "A desktop application to read all files from a folder",
+  "features": [
+    "File tree navigation",
+    "Content display",
+    "Multiple file format support"
+  ]
+}
